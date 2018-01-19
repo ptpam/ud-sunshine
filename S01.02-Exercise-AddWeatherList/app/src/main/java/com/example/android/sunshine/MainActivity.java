@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     // TODO (1) Create a field to store the weather display TextView
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
